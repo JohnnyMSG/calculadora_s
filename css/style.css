@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+}
+
+.caixa {
+    position: relative;
+    box-shadow: 0px 3px 3px black;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 90px;
+    display: inline-block;
+}
+
+.campo {
+    width: 96%;
+    height: 230px;
+    margin: 15px 10px 10px 10px;
+    font-size: 100px;
+}
+
+.teclas {
+    vertical-align: bottom;
+}
+
+#c {
+    width: 97.5%;
+    height: 11vh;
+    border: 1px solid #fff;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'bostonbold', sans-serif;
+    font-size: 50px;
+    background: #002337;
+    border-radius: .25rem;
+    cursor: pointer;
+}
+
+.tecla {
+    width: 24%;
+    height: 12vh;
+    border: 1px solid #fff;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'bostonbold', sans-serif;
+    font-size: 50px;
+    background: #002337;
+    border-radius: .25rem;
+    cursor: pointer;
+}
